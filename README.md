@@ -15,3 +15,6 @@ Este é um projeto de exemplo que demonstra o uso de duas técnicas de criptogra
 - Escolha entre as opções disponíveis: criptografia com Cifra de César, descriptografia com Cifra de César, ou cálculo do hash SHA-256.
 - Siga as instruções para inserir os dados de entrada necessários.
 - O resultado será exibido no console.
+
+# Contribuições
+Sinta-se à vontade em contribuir, fazer melhorias, corrigir erros ou adicionar novos recursos. Basta enviar um pull request com suas alterações.
